@@ -4,11 +4,11 @@
 
 ## Overview
 
-The analysis applies unsupervised machine learning to Swedish municipality data to identify potential locations for future IKEA store expansion.
+Selecting the right store locations is an important strategic decision for retail companies such as IKEA.  Each new store requires major capital investment and long-term operational commitment, making location selection a critical driver of profitability and market growth.
 
-Using Principal Component Analysis (PCA) and K-Means clustering, municipalities are segmented into groups with similar demographic and economic characteristics.
-The analysis then compares these clusters with existing IKEA store locations to highlight municipalities with similar market conditions but no IKEA presence or stores.
+However, determining where to expand is not straightforward. Municipalities differ in population size, education levels, economic activity, retail performance, and infrastructure. These factors shape the potential demand for retail stores. Rather than evaluating each municipality individually, I analyse data to reveal underlying patterns across Swedish municipalities to help IKEA decide on location for expansion. By identifying groups of municipalities with similar demographic and economic characteristics etc, it becomes possible to understand where IKEA currently operates successfully and where similar market conditions may exist for possible expansion.
 
+The analysis combines **machine learning, dimensionality reduction, and market scoring** to highlight municipalities that resemble existing IKEA markets but do not yet have a store. 
 It combines **data cleaning**, **feature scaling**, **Principal Component Analysis (PCA)**, **K-Means clustering**, and a custom **IKEA attractiveness score** to identify municipalities that resemble locations where IKEA already operates.
 
 ---
