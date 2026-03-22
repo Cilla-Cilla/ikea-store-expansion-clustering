@@ -4,7 +4,7 @@
 
 ## Overview
 
-Selecting the right store locations is an important strategic decision for retail companies such as IKEA.  Each new store requires major capital investment and long-term operational commitment, making location selection a critical driver of profitability and market growth.
+Selecting the right store location is an important strategic decision for retail companies such as IKEA.  Each new store requires major capital investment and long-term operational commitment, making location selection a critical driver of profitability and market growth.
 
 However, determining where to expand is not straightforward. Municipalities differ in population size, education levels, economic activity, retail performance, and infrastructure. These factors shape the potential demand for retail stores. Rather than evaluating each municipality individually, I analyse data to reveal underlying patterns across Swedish municipalities to help IKEA decide on location for expansion. By identifying groups of municipalities with similar demographic and economic characteristics etc, it becomes possible to understand where IKEA currently operates successfully and where similar market conditions may exist for possible expansion.
 
